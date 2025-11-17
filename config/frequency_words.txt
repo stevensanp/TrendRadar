@@ -1,5 +1,4 @@
-DeepSeek
-梁文锋
+科技
 
 华为
 鸿蒙
@@ -12,20 +11,12 @@ wifi
 3GPP
 RFC
 
-特斯拉
-马斯克
-
-微软
-Microsoft
-
 英伟达
 NVIDIA
-黄仁勋
 
 谷歌
 google
 gemini
-deepmind
 
 chatgpt
 openai
@@ -37,16 +28,3 @@ Anthropic
 ai
 !gai
 人工智能
-
-国产
-中国
-
-美国
-日本
-韩国
-
-芯片
-光刻机
-
-科技
-
